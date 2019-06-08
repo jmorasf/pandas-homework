@@ -6,6 +6,6 @@
   
   * Charter schools had better passing rates than public district schools both on reading and math.
 
-  * The additional query shows that all charter schools (regardless of size) performed better than the public distric schools (that were all large size schools).
+  * The additional query shows that all charter schools (regardless of size) performed better than the public district schools (that were all large size schools).
 
-  * Additional analysis is required, as the school sample is very small.
+  * Additional analysis is required, as the school sample is very small. 
