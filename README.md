@@ -8,4 +8,4 @@
 
   * The additional query shows that all charter schools (regardless of size) performed better than the public district schools (that were all large size schools).
 
-  * Additional analysis is required, as the school sample is very small.
+  * Additional analysis is required, as the school sample is very small. 
