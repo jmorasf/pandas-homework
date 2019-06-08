@@ -1,4 +1,4 @@
-#Py Schools Analysis##
+##Py Schools Analysis
 
   
 * Schools with higher budgets did not yield better test results. Schools with higher spending per student actually ($645-$675) underperformed compared to schools with smaller budgets (<$585 per student).
